@@ -1,0 +1,366 @@
+The Forest Condition Survey is based upon the assessment of five tree species: 
+
+Norway spruce NS 
+Sitka spruce SS
+Scots pine SP
+oak OK
+beech BE 
+
+Each year, between late June and September, the condition of approximately 8400 trees distributed across a network of 350 permanent monitoring plots was determined. Plots consist of 24 trees located in four sub-plots of six trees and, depending upon the species assessed, between 29 and 33 features indicative of condition are scored for each tree. The feature of greatest interest is an assessment of crown density: an estimate of the degree of transparency of the crown which is used as an index of tree condition.
+
+
+Local crown density (% reduction)		
+0	no reduction	
+5	1-5%	
+10	6-10%	
+15	11-15%	
+…	…	
+		
+Tree dominance		
+1	dominant	trees with upper crown standing above the general level of the canopy
+2	co-dominant	trees with crowns forming the general level of the canopy
+3	intermediate	trees extending into the canopy and receiving some light from above, but shorter than 1 or 2
+4	suppressed	trees with crowns below the general level of the canopy, receiving no direct light from above
+		
+Canopy closure		
+0	crown open-grown or with no evidence of shading effects	
+1	crown in contact with others on one side	
+2	crown in contact with others on two sides	
+3	crown in contact with others on three sides	
+4	crown in contact with others on four sides	
+		
+Branch pattern in spruce		
+1	comb	
+2	brush and/or plate	
+3	hanging brush	
+4	mixture of more than one type	
+		
+Defoliation type in spruce		
+0	less than 20% loss of density	
+1	small window in the upper crown, caused by shoot or branch loss (sub-top dying)	
+2	large window, extending into the lower crown	
+3	death of the uppermost branches and leader	
+4	uniform loss of needles throughout the crown giving an overall thinness (larch-type defoliation)	
+5	loss of needles and shoots at the extremitires of the branches (peripheral defoliation)	
+6	loss of needles from the base of the crown upwards	
+7	loss of needles from the top down (thin upper crown)	
+8	other	
+		
+Defoliation type in pine		
+0	less than 20% loss of density	
+1	defoliation of lower crown	
+2	peripheral defoliation	
+3	gap-like defoliation, with either occasional thinly-needled or dead branches within the crown or missing branches	
+4	uniform loss of needles throughout the crown	
+5	spot-like defoliation, with occasional branches with full needle compliment, but the majority being thinly-needled	
+6	defoliation of upper crown	
+7	other e.g. mechanical damage	
+		
+Defoliation type in broadleaves		
+0	less than 20% loss of density	
+1	no clear pattern	
+2	small gaps, with all or part of the crown transparent as a result of many small spaces caused by spares foliage	
+3	gaps in the lateral branch system, but less than 50% loss of crown density	
+4	large gaps in the lateral branch system, main branches being more-or-less bare almost to the ends of the branches	
+5	mainly large gaps, with leaves restricted to the shoot tips or to adventitious shoots	
+6	whole or part of crown completely defoliated	
+7	other, e.g. mechanical damage	
+		
+		
+Crown dieback in broadleaves - type		
+0	none	
+1	leaf loss only, with lateral branches partly or completely bare	
+2	dieback restricted to relatively thin branches	
+3	several large branches involved	
+4	main stem involved in the upper part of the crown	
+5	restricted to twigs	
+		
+Crown dieback in broadleaves - location		
+0	none	
+1	top of the tree only	
+2	middle parts of the crown	
+3	top and middle	
+4	branches at the base of the crown	
+5	throughout the crown	
+6	bottom and middle of the crown	
+		
+Crown dieback in broadleaves - extent		
+0	no dieback	
+5	1-5% dieback	
+10	6-10% dieback	
+15	11-15% dieback	
+etc	etc	
+		
+Crown form in beech		
+0	trees with vigorous growth of both apical and side shoots	
+1	apical shoots still growing vigorously, but side shoots much slower, resulting in the development of 'spears'	
+2	both side shoots and apical shoots with reduced growth, resulting in the development of 'claws'	
+3	growth stopped and defoliation and dieback occurring	
+4	other e.g. mechanical damage	
+		
+Crown form in pine		
+1	vigorous apical dominance with tree growing strongly upwards	
+2	reduced apical dominance with some evidence of flattening	
+3	no apical dominance with crown showing signs of widening	
+4	as 3, but lower branches being lost through suppression	
+5	platform developing, but crown still with some depth	
+6	platform fully developed	
+		
+Shoot death in spruce and pine - shoot death in crown		
+0	none, or less than 20% loss of density	
+1	top three branch whorls only	
+2	top quarter of the crown	
+3	top half of the crown	
+4	bottom half of the crown	
+5	middle part of the crown only	
+6	all over the crown	
+		
+Shoot death in spruce and pine - shoot death in branch		
+0	none, or less than 20% loss of density	
+1	outermost shoots only	
+2	shoots on the middle of the branch	
+3	innermost parts of the branch	
+4	middle and inner parts of the branch	
+5	all over the branch	
+		
+Shoot death in spruce and pine - shoot death extent		
+0	none, or less than 20% loss of density	
+1	rare (1-10 dead shoots)	
+2	scattered (11-50 dead shoots)	
+3	common (>50 dead shoots, but live shoots more common than dead ones)	
+4	abundant (more dead shoots than live ones)	
+		
+Secondary shoots in spruce - location		
+0	no secondary shoots	
+1	outer parts of branches only	
+2	middle of branches	
+3	inner parts of branches	
+4	outer and middle parts	
+5	middle and inner parts	
+6	all along the branch	
+		
+Secondary shoots in spruce - abundance		
+0	no secondary shoots	
+1	a few shoots on less than a quarter of branches	
+2	many shoots on less than a quarter of branches	
+3	a few shoots on many branches	
+4	many shoots on many branches, with the shoots making a significant contribution to the crown density of the tree	
+		
+Epicormics in broadleaves		
+0	none	
+1	rare	
+2	scattered (11-50 on the stem or one or two main branches with them)	
+3	common (51-100 on the stem or several main branches with them)	
+4	abundant (stem totally obscured by epicormics or majority of main branches with them)	
+		
+Flowering in pine		
+0	none	
+1	rare, 1-10% of branches	
+2	infrequent, 11-25% of branches	
+3	common, 26-60% of branches	
+4	abundant, >60% of branches	
+		
+(top and bottom halves are scored separately)		
+		
+Fruiting		
+0	none	
+1	scarce	
+2	common	
+3	abundant	
+		
+Needle retention		
+0	0 years	
+..	..	
+7	7 years	
+8	more than 7 years	
+		
+Leaf size in beech		
+0	normal	
+1	smaller than normal	
+2	larger than normal	
+		
+Discolouration		
+Discolouration of needles is recorded in 4 categories:		
+1) % of necrotic (Brown) needles amongst the current year's needles		
+2) % of necrotic (Brown) needles amongst the older needles		
+3) % of chlorotic (Yellow) needles amongst the current year's needles		
+4) % of chlorotic (Yellow) needles amongst the older needles		
+		
+Discolouration of leaves is recorded in two categories:		
+1) % of necrotic (Brown) leaves		
+2) % of chlorotic (Yellow) leaves		
+		
+Overall discolouration of both necrosis and chlorosis		
+0	0-10% of needles/leaves	
+1	11-25% of needles/leaves	
+2	26-60% of needles/leaves	
+3	61-99% of needles/leaves	
+4	dead trees	
+		
+Needle chlorosis (Yellowing) type		
+0	none	
+1	tree generally showing a yellowing appearance	
+2	chlorotic tips to needles	
+3	chlorotic flecks or bands	
+4	upper surfaces of needles only	
+5	entire needles chlorotic	
+		
+Leaf necrosis (Browning) type		
+0	none	
+1	leaf margins only	
+2	leaf tips only	
+3	spots on leaves	
+4	scattered leaves entirely brown	
+5	occasional shoots with all leaves entirely brown	
+6	occasional branches with all leaves entirely brown	
+7	combination of browning types	
+		
+Leaf chlorosis (Yellowing) type		
+0	none	
+1	leaf margins chlorotic	
+2	some shoots or branches chlorotic, the rest of the crown being the normal colour	
+3	entire tree yellowish-green	
+4	entire tree greenish-yellow	
+5	entire tree chlorotic	
+6	scattered leaves entirely yellow	
+7	combination of yellowing types	
+		
+Mechanical damage type		
+1	abrasion of peripheral shoots	
+2	wind and snow damage	
+3	prevailing wind effect (lop-sided crown)	
+4	damage caused by adjacent trees leaning into target tree	
+5	hail	
+6	lightning	
+7	damage to the crown caused by harvesting operations	
+		
+Butt and stem damage		
+1	dead area with bark still present	
+2	area of exposed wood	
+3	resin flow from cracks and holes	
+4	swelling (covering over previous damage)	
+5	crack at least five times long as wide	
+6	fungus, i.e. a visible fruiting body on the stem	
+7	extraction damage	
+8	insect activity (e.g. resin tubes, emergence holes, insects present)	
+9	tarry spots on bark	
+10	vandalism	
+11	pruning or bashing wounds	
+12	animal damage (e.g. bark stripping)	
+13	fire	
+		
+Mechanical damage %		
+0	no reduction	
+5	1-5 %	
+10	6-10%	
+15	11-15%	
+…	…	
+		
+Damage to butt and stem, game damage, abiotic damage, damage by man, fire damage, pollution damage and other damage		
+0	absent	
+1	present	
+		
+Insect damage and fungal damage		
+0	none	
+1	rare	
+2	infrequent	
+3	common	
+4	abundant	
+		
+Leaf rolling in beech		
+0	absent	
+1	present	
+		
+Premature leaf loss in beach		
+0	None	
+1	infrequent	
+2	common	
+3	abundant	
+		
+Absolute crown density (% reduction)		
+0	no reduction	
+5	1-5%	
+10	6-10%	
+15	11-15%	
+…	…	
+		
+Old leaf-rolling		
+1	leaves on a few shoots in the upper crown	
+2	leaves on a few shoots elsewhere in the crown	
+3	leaves on about half the shoots in the upper crown	
+4	leaves on about half the shoots throughout the crown	
+5	leaves on most shoots in the upper crown	
+6	leaves on most shoots throughout the crown	
+7	virtually all leaves effected	
+		
+Old leaf rolling degree		
+1	slightly curved upwards at edges	
+2	curled, but not tightly	
+3	tightly curled, with sides touching each other	
+		
+Leader condition		
+1	shorter than current-year side shoots	
+2	missing	
+3	bent or twisted	
+4	double	
+5	broken	
+6	bare	
+7	side shoots taken over apical dominance	
+		
+Branching density		
+0	no secondary shoots	
+1	a few shoots on less than a quarter of branches	
+2	many shoots on less than a quarter of branches	
+3	a few shoots on many branches	
+4	many shoots on many branches, with the shoots making a significant contribution to the crown density of the tree	
+		
+Extension Growth		
+Enter the length of the last year's internode to the nearest centimetre. This measurement is for small trees only		
+		
+Crown width		
+Enter the mean of two diameters of the crown width at the base of the tree. This measurement is for small trees only.		
+		
+Comments		
+The following abbreviations are used in the comments column		
+		
+AC	Adelges cooleyi	
+BBD	Beech bark disease	
+BC	Beech coccus	
+BLM	Beech leaf miner	
+BT	Broken top	
+CHIN	Chewing insects	
+CUC	Cucurbitaria picea	
+DT	Drought	
+EL	Elatobium	
+FD	Frost damage	
+KD	K deficiency	
+LAM	Lammas	
+LM	Leaf miner	
+NCB	Nectria canker on beech	
+OD	Oak decline	
+OMD	Old mechanical damage	
+PIN	Pinholes	
+RM	Roller moth	
+RT	Resin top dying	
+SQ	Squirrel damage	
+TD	Top dying	
+TOM	Tomicus	
+TOR	Tortix	
+WM	Winter moth	
+
+
+Air pollution data
+year
+nh3 ammonia                                
+nox   nitrous oxide                              
+so2  sulphur dioxide                               
+voc  Volatile organic compounds                              
+pm10  particulate matter (PM)  fraction of particles with an aerodynamic diameter smaller than 10 µm                             
+pm25   particulate matter (PM)  fraction of particles with an aerodynamic diameter smaller than 2.5 µm                              
+
+Temperature data
+year 
+temp_june                           
+temp_july                          
+temp_aug                            
+temp_sep                             
