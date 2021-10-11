@@ -85,7 +85,8 @@ The final model score was 0.74, which was above the baseline score. All the mode
 
 
 
-<img width="812" alt="Screenshot 2021-09-23 at 20 56 55" src="https://user-images.githubusercontent.com/83399849/134575482-13790216-9207-41c6-abd5-41a0439da974.png">
+
+<img width="881" alt="Screenshot 2021-10-11 at 17 55 19" src="https://user-images.githubusercontent.com/83399849/136827757-d57e5300-11fe-47a0-b76f-0d3422c0f306.png">
 
 
 
@@ -115,7 +116,7 @@ As with the previous modeling NLP model was validated with Precision-Recall curv
 
 ## Conclusions 
 
-Nitrous oxide, sulphur dioxide, particualr matter compounds, defoliation, discolouration, temperature are among the strongest indicators of local crown density reduction.
+Leaf browning, Nitrous oxide, sulphur dioxide, dieback in broadleaves, particualr matter compounds, defoliation, discolouration, temperature are among the strongest indicators of local crown density reduction.
 Trees with high defoliation rate and leaves/needles discolouration are most likely to be classed as deteriorating.
 Local crown density reduced over the years across all of the tree species. Sitka Spruce, Beech and Oak affected the most.
 
