@@ -44,7 +44,7 @@ The final dataset after cleaning includes: forest data with 63 features for almo
 
 After initial exploratory data analysis, I calculated some fields such as:
   1. Age.
-  2. Local crown density mean for each tree specie.
+  2. Local crown density mean for each tree species.
   3. Crown mean class - binary class.
   4. Longitude and Latitude using grid reference column and geopandas. 
   5. Location address using reverse coding and geopy.
@@ -56,9 +56,9 @@ Exploratory Data Analysis showed the majority of the trees were healthy and not 
 
 
 
-## Target variable: Local crown density reducion
+## Target variable: Crown Density class
 
-![lcd distribution](https://user-images.githubusercontent.com/83399849/133161593-c8676e31-ac42-440b-a76d-36185fcaad47.png)
+![image](https://user-images.githubusercontent.com/83399849/154490533-183cd5e1-747f-41bc-bdb3-5cee455988a9.png)
 
 ![lcdoutliers](https://user-images.githubusercontent.com/83399849/133161818-c140ff67-673c-4a9c-a56c-f2aba52344b2.png)
 
@@ -69,24 +69,23 @@ Exploratory Data Analysis showed the majority of the trees were healthy and not 
 
 Baseline accuracy: 0.621
 
-SMOTE oversampling was used to deal with class imbalance (since local crown density distribution was skewed to the right).
+SMOTE oversampling was used to deal with class imbalance (since Crown density class distibution was imbalanced).
 
 ### Classification models
 
 
 
-A range of models were applied on the dataset, using three sets of the predictors. Most of the predictors were categorical, however there were few continuous variables. All variables have been standardised with Standard scaler before running the models Various different models were used including Logistic Regression, K Nearest Neighbours, Support Vector Machines, Random Forest Classifier, Decision Tree Classifier and Extra Tree Classifier.
+A range of models were applied on the dataset, using three sets of the predictors. Most of the predictors were categorical, however there were few continuous variables. All variables have been standardised with Standard scaler before running the models Various different models were used including Logistic Regression, K Nearest Neighbours, Random Forest Classifier, Decision Tree Classifier and Extra Tree Classifier.
 
-The best model was the Logistic Regression model, using second set of the predictors, that included the following:
+The best model was the Logistic Regression model (using oversampling with SMOTE), using second set of the predictors, that included the following:
 
 diameter, height, shoot death branch, defoliation type, broadleaf dieback type, leaf browning, leaf yellowing, broadleaf dieback extend percentage, overall discolouration,damage butt stem, damage game, damage insect, damage fungal, damage abiotic, damage man, damage fire, damage other, ammonia, nitrous oxide, sulphur dioxide, volatile organic compound, particular matter 10, particualr matter 25, annual mean temp,annual rainfall, age, latitude.
 
-The final model score was 0.74, which was above the baseline score. All the models attempted gave final scores between 0.66 and 0.73 - Decision Tree classifier yielded the worst model score.
+The final model score was 0.69, which was above the baseline score. All the models attempted gave final scores between 0.64 and 0.73 - Decision Tree classifier yielded the worst model scores.
 
 
 
-
-<img width="881" alt="Screenshot 2021-10-11 at 17 55 19" src="https://user-images.githubusercontent.com/83399849/136827757-d57e5300-11fe-47a0-b76f-0d3422c0f306.png">
+![image](https://user-images.githubusercontent.com/83399849/154522255-51fbe581-f057-4b25-bec2-65bbe6360c3d.png)
 
 
 
@@ -116,7 +115,7 @@ As with the previous modeling NLP model was validated with Precision-Recall curv
 
 ## Conclusions 
 
-Leaf browning, Nitrous oxide, sulphur dioxide, dieback in broadleaves, particualr matter compounds, defoliation, discolouration, temperature are among the strongest indicators of local crown density reduction.
+Dieback in broadleaves, shoot death branch, damage insect, particualr matter compounds, defoliation, discolouration, temperature are among the strongest indicators of local crown density reduction.
 Trees with high defoliation rate and leaves/needles discolouration are most likely to be classed as deteriorating.
 Local crown density reduced over the years across all of the tree species. Sitka Spruce, Beech and Oak affected the most.
 
@@ -127,7 +126,7 @@ Local crown density reduced over the years across all of the tree species. Sitka
 
 ## Key learning
 
-Throughout this project I was able to learn a lot about a variety of Regression and NLP processes and how they can be applied. My greatest achievement was my determination and ability to find solutions when it at times felt impossible. Dealing with a blocker until I found a workable solution strengthened my critical thinking and problem solving skills.
+Throughout this project I was able to learn a lot about a variety of Classification and NLP processes and how they can be applied. My greatest achievement was my determination and ability to find solutions when it at times felt impossible. Dealing with a blocker until I found a workable solution strengthened my critical thinking and problem solving skills.
 
 
 ## Challenges
@@ -142,7 +141,6 @@ Installing geopy was quite prolonged and initially was not successful. However f
 * Perform the analysis based on more localised air pollution data.
 * Add soil data.
 * Obtain carbon emission data as well as water pollution data.
-* Seasonal time series forecasting.
 * Look at the localised animal composition.
 
 ## Libraries Used
