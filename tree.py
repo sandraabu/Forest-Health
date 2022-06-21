@@ -3,9 +3,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from PIL import Image
-import sklearn
-# from sklearn.linear_model import LogisticRegressionCV
-# from sklearn.linear_model import LogisticRegression
+from sklearn.linear_model import LogisticRegression
  
 # loading the trained model
 pickle_in = open('streamlit_classifier.pkl', 'rb') 
@@ -102,14 +100,14 @@ features = {
 # # Converting Features into DataFrame
 
 features_df = pd.DataFrame(features, index=[0])
-st.subheading('Input features to be deployed')
+st.subheader('Input features to be deployed')
 st.write(features_df)
 
 df2 = pd.read_csv('data.csv')
 #st.write(df2.shape)
 
 df_combo = pd.concat([features_df,df2], ignore_index = True)
-st.write(df_combo.shape)
+#st.write(df_combo.shape)
 cols_to_dummy = ['shoot_death_branch', 'defoliation_type',
        'broadleaf_dieback_type', 'leaf_browning', 'leaf_yellowing',
        'overall_discolouration',
