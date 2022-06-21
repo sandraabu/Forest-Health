@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 from PIL import Image
 from sklearn.linear_model import LogisticRegressionCV
+from sklearn.linear_model import LogisticRegression
  
 # loading the trained model
 pickle_in = open('streamlit_classifier.pkl', 'rb') 
