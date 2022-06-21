@@ -2,6 +2,8 @@ import pickle
 import streamlit as st
 import pandas as pd
 import numpy as np
+from PIL import Image
+from sklearn.linear_model import LogisticRegressionCV
  
 # loading the trained model
 pickle_in = open('streamlit_classifier.pkl', 'rb') 
@@ -98,11 +100,11 @@ features = {
 # # Converting Features into DataFrame
 
 features_df = pd.DataFrame(features, index=[0])
-
-st.write(features_df.shape)
+st.subheading('Input features to be deployed')
+st.write(features_df)
 
 df2 = pd.read_csv('data.csv')
-st.write(df2.shape)
+#st.write(df2.shape)
 
 df_combo = pd.concat([features_df,df2], ignore_index = True)
 st.write(df_combo.shape)
@@ -117,8 +119,6 @@ df_combo = pd.get_dummies(df_combo, columns = cols_to_dummy, drop_first = True)
     
 df_combo = df_combo[:1]
 
-
-st.write(df_combo.columns)
 
  
 #     
