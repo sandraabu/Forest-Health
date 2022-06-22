@@ -85,7 +85,8 @@ The final model score was 0.69, which was above the baseline score. All the mode
 
 
 
-![image](https://user-images.githubusercontent.com/83399849/154522255-51fbe581-f057-4b25-bec2-65bbe6360c3d.png)
+
+![image](<img width="889" alt="Screenshot 2022-06-22 at 15 53 17" src="https://user-images.githubusercontent.com/83399849/175060555-25f175ca-4aee-4062-934e-cfe62ecc37e1.png">)
 
 
 
@@ -96,7 +97,7 @@ The best model was validated with Precision-Recall curve, receiver operating cha
 ### Natural Language Processing 
 
 
-Comments variable was used as a predictor in this modeling, in order to try to predict tree health. Count Vectoriser followed by Logistic Regression and Random Forest Classifier. 
+Comments variable was used as a predictor in this modeling, in order to try to predict tree health. Count Vectorizer followed by Logistic Regression and Random Forest Classifier. 
 
 The best model was Random Forest Classifier and final model score was 0.65, which was above the bassline score.
 
@@ -115,7 +116,7 @@ As with the previous modeling NLP model was validated with Precision-Recall curv
 
 ## Conclusions 
 
-Dieback in broadleaves, shoot death branch, damage insect, particualr matter compounds, defoliation, discolouration, temperature are among the strongest indicators of local crown density reduction.
+Dieback in broadleaves, no shoot death branch, peripheral defoliation, rare or infrequent damage caused by insect, particualr matter compounds, diameter, temperature, age and defoliation of the lower crown are among the strongest indicators of local crown density reduction.
 Trees with high defoliation rate and leaves/needles discolouration are most likely to be classed as deteriorating.
 Local crown density reduced over the years across all of the tree species. Sitka Spruce, Beech and Oak affected the most.
 
