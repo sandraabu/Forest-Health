@@ -18,8 +18,7 @@ There is an urgent need to develop a predictive understanding of the carbon and 
 
 The project goal was to find out how the environmental factors affect tree health.
 
-The purpose of the work presented here was to develop a simple model that would assess tree condition and find out whether the model can predict the dynamics of real forest communities.
-
+The purpose of the work presented here was to develop a simple model that would assess tree condition and classify tree as healthy or deteriorating.  
 
 
 ## Data collection 
@@ -42,10 +41,10 @@ The final dataset after cleaning includes: forest data with 63 features for almo
 
 ## Feature engineering
 
-After initial exploratory data analysis, I calculated some fields such as:
+After initial exploratory data analysis, I created additional features:
   1. Age.
   2. Local crown density mean for each tree species.
-  3. Crown mean class - binary class.
+  3. Crown mean class - binary class, where 0 means healthy tree, and 1 means deteriorating tree.
   4. Longitude and Latitude using grid reference column and geopandas. 
   5. Location address using reverse coding and geopy.
   6. Extracting country from the address list.
