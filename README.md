@@ -86,7 +86,8 @@ The final model score was 0.69, which was above the baseline score. All the mode
 
 
 
-![image](<img width="889" alt="Screenshot 2022-06-22 at 15 53 17" src="https://user-images.githubusercontent.com/83399849/175060555-25f175ca-4aee-4062-934e-cfe62ecc37e1.png">)
+<img width="878" alt="Screenshot 2022-06-22 at 16 00 41" src="https://user-images.githubusercontent.com/83399849/175063211-dfae34a3-1ae7-4b89-8746-f151fb11282d.png">
+
 
 
 
